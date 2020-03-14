@@ -4,26 +4,31 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+## TL;DR
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+- 🚀 I am a tech enthusiast that's super excited about the future
+- 👨‍💻 I build things using mostly open source web technologies (spring, angular, ionic)
+- ☁️ I deploy to the cloud with kubernetes and firebase
+- 🔅 I like clean code and a declarative programming style
+- 🤖 I enjoy to harness the power of machine learning
 
-## Features
+And when I'm not in front of a computer:
+- 🏃🏋️🤸🌍😁
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+## And here's the long story: My journey to computer science
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+When I was in fourth grade, a friend of mine showed me that thing called Batch Scripting, which allows you to do lots of fun stuff. For instance, it only takes one command to make a message pop up on your parent’s computer whenever they log in. And with only one more command you can make that message pop up so many times, the computer can’t even handle it. How cool is that? I was amazed that the computer’s behavior could be controlled by just typing a few commands in a text file and execute it accordingly. That event quickly made computers become my main point of interest. During the next years, I taught myself whatever I could with the help of the internet. Near the end of my secondary education it was clear that I wished to undertake an apprenticeship in information technologies. 
+
+My four-year apprenticeship at the Federal Office of Information Technology was phenomenal. A whole new world of knowledge unlocked. I suddenly was around experienced IT-people, who could answer all my questions and who taught me things I didn’t even know were possible. 
+
+Fast forward a few more years, I am now a certified software developer and have gained a lot of practical skills working for several companies with a wide range of people. One of my most successful experiences was the three months I worked at a swiss company as a sole developer for a software project that allows to internationally configure and reroute every printer that is connected to the firm network. The feedback on the application has been highly positive, and up to this day it is used on a daily basis.
+
+Working on such projects was an outstanding experience; however, I realized that I wanted to work on more sophisticated projects but lacked the knowledge and skills. Therefore, I decided to go a step further and pursue a bachelor’s degree in computer science at the University of Applied Sciences and Arts Northwestern Switzerland. Turns out it was the best thing I could have done. There were so many like-minded people around, the professors were extremely competent and I was having a sensational time learning something new every day. 
+
+One year in, I started planning an exchange semester in South Korea. This country was very appealing to me, not only because it’s one of the leading nations in innovation and technology but also because I have had a general interest in South Korea for the past few years and even started learning the Korean language and writing system. A couple months later, I was very excited to be accepted at the Seoul National University College of Engineering, which offered a variety of truly interesting courses. Especially the Data Science courses perfectly fit my studies. But not only did this allow to deepen my knowledge in various fields of computer science, but also let me experience the Korean culture, improve my Korean language skills, make new friends and international contacts. It was a tough semester, but it also was one of the best decisions I made in my life so far.
+
+After a couple more months of traveling through Asia I went back to Switzerland and started working at a software development company while also taking two more semesters of courses and writing my thesis "Machine Learning based KPIs for Effective Project Controlling". I'm writing a [blog series](https://blog.mimacom.com/building-an-etl-pipeline-for-jira/) covering some key aspects of the thesis. (Unfortunately I cannot make the paper pubicly available, since it contains company-sensitive information.)
+
+After achieving this milestone I am now operating as an external employee for a Swiss insurance company, primarily working on a quite interesting and versatile project for in-browser telephony integration for our callcenters.
+
+To be continued...
