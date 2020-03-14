@@ -2,6 +2,7 @@
 layout: post
 title: Unit Tests for Software Architecture
 image: architecture.jpg
+categories: [testing, architecture]
 ---
 
 Code reviews are an important practice for quality assurance in software projects.

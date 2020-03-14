@@ -2,6 +2,7 @@
 layout: post
 title: Organization of Angular Modules
 image: building-blocks.jpg
+categories: [angular]
 ---
 
 As a backend engineer, my angular journey began very gently. I started working on small frontend issues when no dedicated frontend engineer was available, to get things done more quick instead of waiting for someone else to do it.

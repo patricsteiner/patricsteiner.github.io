@@ -2,6 +2,7 @@
 layout: post
 title: Interesting Behaviours of Java
 image: java-island.jpg
+categories: [java]
 ---
 
 There is [a famous video](https://www.destroyallsoftware.com/talks/wat) that showcases some weird "features" of JavaScript. If you haven't seen it, I highly recommend to check it out. It's hilarious (and a bit frustrating at the same time).

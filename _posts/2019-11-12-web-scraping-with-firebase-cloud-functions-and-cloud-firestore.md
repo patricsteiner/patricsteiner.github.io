@@ -2,6 +2,7 @@
 layout: post
 title: Web Scraping with Firebase Cloud Functions and Cloud Firestore
 image: cloud-fire.jpg
+categories: [web-scraping, firebase]
 ---
 
 In the [previous post] we saw how to build a script that scrapes the website of a local supermarket for beer promotions and returns the data as a clean JSON array. 

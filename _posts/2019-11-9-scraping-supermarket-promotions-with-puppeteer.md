@@ -2,6 +2,7 @@
 layout: post
 title: Scraping Supermarket Promotions with Puppeteer
 image: beers.jpg
+categories: [web-scraping]
 ---
 
 Finally a quite day, it's 10pm and I've basically done everything I wanted to do this day. So it would be reasonable to go to bed now. 
