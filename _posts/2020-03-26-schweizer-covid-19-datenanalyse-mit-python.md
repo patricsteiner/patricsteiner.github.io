@@ -24,7 +24,7 @@ data.head()
 
 Hier ein Auszug der Daten:
 
-![data_head](images/2020-03-26/data_head.jpg)
+![data_head](/images/2020-03-26/data_head.jpg)
 
 # 📈 Erste Auswertungen 
 Mit matplotlib können wir Plots erstellen, indem wir einfach einen Vektor mit Werten für die X-Achse (nachfolgend `data['Date']`, also die Datumsspalte), und einen Vektor für die Werte der Y-Achse angeben (nachfolgend `data['CH']`, das ist die Total-Spalte für die ganze Schweiz). Schauen wir zum Beispiel mal, wie sich die Anzahl COVID-19 Fälle in der Schweiz entwickelt:
@@ -36,7 +36,7 @@ plt.xticks(rotation=45)
 plt.show()
 ```
 
-![infected_total](images/2020-03-26/infected_total.jpg)
+![infected_total](/images/2020-03-26/infected_total.jpg)
 
 Die Kurve verläuft exponentiell - war auch nicht anders zu erwarten bei einer Pandemie.
 Anstatt einen Vektor, können wir dem Plot auch mehrere Vektoren (bzw. eine Matrix) als Wert für die Y-Achse mitgeben. Nachfolgend geben wir alle Spalten von `AG` bis `ZH` mit, also die Daten aller Kantone, jedoch nicht die Totals-Spalte `CH`. So erhalten wir pro Kanton eine Kurve.
@@ -51,12 +51,12 @@ plt.legend(ys.columns, fontsize=12)
 plt.show()
 ```
 
-![infected_per_canton](images/2020-03-26/infected_per_canton.jpg)
+![infected_per_canton](/images/2020-03-26/infected_per_canton.jpg)
 
 # 🗃️ Hinzufügen von Stammdaten
 In den vorherigen Plots sehen wir die absolute Anzahl an COVID-19 Fällen, das können wir auch in den News nachlesen. Interessanter wäre zum Beispiel der Anteil infizierter Personen pro Kanton. Generelle Informationen zu Kantonen finden wir natürlich leicht auf Wikipedia. Ich hab die Fläche, Population, Dichte sowie das BIP (because why not) herauskopiert und in ein Dataframe `cantons` gepackt. Hier ein Ausschnitt davon:
 
-![wikipedia_data](images/2020-03-26/wikipedia_data.jpg)
+![wikipedia_data](/images/2020-03-26/wikipedia_data.jpg)
 
 Jetzt können wir diese Daten mit den Corona Daten verknüpfen und zum Beispiel den infizierten Bevölkerungsanteil pro Tag ausrechnen. Wir können ganz einfach den `/` operator verwenden, um die Anzahl Fälle durch die Population zu teilen. Funktioniert in Python auch für Dataframes, solange die Grösse der Vektoren/Matrizen stimmt.
 
@@ -71,7 +71,7 @@ plt.xticks(rotation=45)
 plt.show()
 ```
 
-![infected_percentage](images/2020-03-26/infected_percentage.jpg)
+![infected_percentage](/images/2020-03-26/infected_percentage.jpg)
 
 Das Bild sieht ähnlich aus wie vorhin, nur die Verteilung der Kantone ist ein wenig anders. 
 
@@ -93,17 +93,17 @@ corr = cantons.corr()
 corr.style.background_gradient(cmap='Reds').set_precision(2)
 ```
 
-![corr](images/2020-03-26/corr.jpg)
+![corr](/images/2020-03-26/corr.jpg)
 
 # 🔝 And the winner is ...
 
 Wir wissen bereits, welche Kantone die meisten infizierten Personen haben:
 
-![infected_top_ten](images/2020-03-26/infected_top_ten.jpg)
+![infected_top_ten](/images/2020-03-26/infected_top_ten.jpg)
 
 Aber hier noch mal ein bisschen übersichtlicher, welche Kantone den grössten *Anteil* an Infizierten haben:
 
-![infected_percentage_top_ten](images/2020-03-26/infected_percentage_top_ten.jpg)
+![infected_percentage_top_ten](/images/2020-03-26/infected_percentage_top_ten.jpg)
 
 # 🏠 Blibet daheim!
 Ihr wisst es bereits, wir werden wahrscheinlich bald schon sehr überfüllte Spitäler haben... Darum: bleibt vielleich doch besser zu Hause. Wenn man nur die Fläche der Kantone beachtet, dann gilt das vorallem für unsere kleinen aber dicht besiedelten Kantone Basel-Stadt und Genf!
@@ -115,4 +115,4 @@ plt.barh(ys['name'], ys['infected_per_km2'], color='green')
 plt.show()
 ```
 
-![infected_per_km2_top_ten](images/2020-03-26/infected_per_km2_top_ten.jpg)
+![infected_per_km2_top_ten](/images/2020-03-26/infected_per_km2_top_ten.jpg)
