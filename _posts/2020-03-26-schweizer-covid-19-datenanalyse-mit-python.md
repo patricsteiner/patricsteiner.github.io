@@ -9,7 +9,8 @@ Auch wenn ich langsam die Nase voll von Corona habe, konnte ich es als Hobby Dat
 
 # 📜 Daten
 Der erste Schritt ist auch gleich der schwierigste: An die Daten kommen.
-Zum Glück hat ein [Github User](https://github.com/daenuprobst/covid19-cases-switzerland) bereits eine CSV Datei mit der Anzahl COVID-19 Erkrankten Schweizer bereitsgestellt. Danke :)
+Zum Glück hat ein [Github User](https://github.com/daenuprobst/covid19-cases-switzerland) bereits eine CSV Datei mit der Anzahl COVID-19 erkrankten Schweizer bereitsgestellt. Danke 😃
+
 Patientendaten wie Geschlecht, Alter, Krankheiten etc. wären natürlich sehr interessant, sind aber vertraulich und darum unzugänglich und keine Option für uns.
 Auch nicht-vertrauliche Daten wie Anzahl Spitalbetten, Pfleger/-innen oder Beatmungsgeräte pro Kanton sind nur sehr schwer auffindbar.
 Deshalb, und aus Faulheit, beschränken wir uns für den Moment auf die bereits vorhandene CSV Datei.
@@ -38,8 +39,9 @@ plt.show()
 
 ![infected_total](/images/2020-03-26/infected_total.jpg)
 
-Die Kurve verläuft exponentiell - war auch nicht anders zu erwarten bei einer Pandemie.
-Anstatt einen Vektor, können wir dem Plot auch mehrere Vektoren (bzw. eine Matrix) als Wert für die Y-Achse mitgeben. Nachfolgend geben wir alle Spalten von `AG` bis `ZH` mit, also die Daten aller Kantone, jedoch nicht die Totals-Spalte `CH`. So erhalten wir pro Kanton eine Kurve.
+Die Kurve verläuft exponentiell - war auch nicht anders zu erwarten, ist ja eine Pandemie 😵🌍.
+
+Anstatt nur einem Vektor können wir dem Plot auch mehrere Vektoren (bzw. eine Matrix) als Werte für die Y-Achse mitgeben. Nachfolgend geben wir alle Spalten von `AG` bis `ZH` mit, also die Daten aller Kantone, jedoch nicht die Total-Spalte `CH`. So erhalten wir pro Kanton eine Kurve.
 
 ```python
 plt.figure(figsize=(10,10))
@@ -54,11 +56,11 @@ plt.show()
 ![infected_per_canton](/images/2020-03-26/infected_per_canton.jpg)
 
 # 🗃️ Hinzufügen von Stammdaten
-In den vorherigen Plots sehen wir die absolute Anzahl an COVID-19 Fällen, das können wir auch in den News nachlesen. Interessanter wäre zum Beispiel der Anteil infizierter Personen pro Kanton. Generelle Informationen zu Kantonen finden wir natürlich leicht auf Wikipedia. Ich hab die Fläche, Population, Dichte sowie das BIP (because why not) herauskopiert und in ein Dataframe `cantons` gepackt. Hier ein Ausschnitt davon:
+In den vorherigen Plots sehen wir die absolute Anzahl an COVID-19 Fällen - langweilig, das können wir auch in den News nachlesen. Interessanter wäre zum Beispiel der Anteil infizierter Personen pro Kanton. Dazu brauchen wir aber zuerst noch einige Stammdaten der Kantone. Wikipedia zu Hülf! Ich hab die Fläche, Population, Dichte sowie das BIP (because why not) [von hier](https://en.wikipedia.org/wiki/Cantons_of_Switzerland) herauskopiert und in ein Dataframe `cantons` gepackt. Nachfolgend ein Ausschnitt davon:
 
 ![wikipedia_data](/images/2020-03-26/wikipedia_data.jpg)
 
-Jetzt können wir diese Daten mit den Corona Daten verknüpfen und zum Beispiel den infizierten Bevölkerungsanteil pro Tag ausrechnen. Wir können ganz einfach den `/` operator verwenden, um die Anzahl Fälle durch die Population zu teilen. Funktioniert in Python auch für Dataframes, solange die Grösse der Vektoren/Matrizen stimmt.
+Jetzt können wir diese Daten mit den Corona Daten verknüpfen und zum Beispiel den infizierten Bevölkerungsanteil pro Tag ausrechnen. Wir können ganz einfach den `/` operator verwenden, um die Anzahl Fälle durch die Population zu teilen. Funktioniert in Python auch für Dataframes, solange die Grösse der Vektoren/Matrizen übereinstimmt.
 
 ```python
 # percentage of infected population per canton
@@ -97,16 +99,16 @@ corr.style.background_gradient(cmap='Reds').set_precision(2)
 
 # 🔝 And the winner is ...
 
-Wir wissen bereits, welche Kantone die meisten infizierten Personen haben:
+Wir wissen bereits, welche Kantone die meisten infizierten Personen haben, Waadt führt zurzeit:
 
 ![infected_top_ten](/images/2020-03-26/infected_top_ten.jpg)
 
-Aber hier noch mal ein bisschen übersichtlicher, welche Kantone den grössten *Anteil* an Infizierten haben:
+Aber hier noch mal ein bisschen übersichtlicher, welche Kantone den grössten *Anteil* an Infizierten haben. Hier rutscht der Kanton Tessin gleich an die Spitze.
 
 ![infected_percentage_top_ten](/images/2020-03-26/infected_percentage_top_ten.jpg)
 
 # 🏠 Blibet daheim!
-Ihr wisst es bereits, wir werden wahrscheinlich bald schon sehr überfüllte Spitäler haben... Darum: bleibt vielleich doch besser zu Hause. Wenn man nur die Fläche der Kantone beachtet, dann gilt das vorallem für unsere kleinen aber dicht besiedelten Kantone Basel-Stadt und Genf!
+Ihr wisst es bereits, wir werden wahrscheinlich bald schon sehr überfüllte Spitäler haben... Darum: bleibt vielleich doch besser zu Hause. Wenn man nur die Fläche der Kantone beachtet, dann gilt das vor allem für unsere kleinen aber dicht besiedelten Kantone Basel-Stadt und Genf!
 
 ```python
 plt.title('Anzahl infizierte Personen pro Quadratkilometer')
@@ -116,3 +118,8 @@ plt.show()
 ```
 
 ![infected_per_km2_top_ten](/images/2020-03-26/infected_per_km2_top_ten.jpg)
+
+Danke fürs Lesen 😁✌🏻
+
+
+_PS: Wenn ich mal dazu komme, werde ich mich noch einer kleinen Domino-Effekt-Simulation widmen um das Exponentielle Wachstum einer solchen Pandemie möglichst verständlich zu visualisieren... Oder falls das bereits jemand macht oder gemacht hat, let me know!_
