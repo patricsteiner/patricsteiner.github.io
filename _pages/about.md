@@ -29,6 +29,6 @@ One year in, I started planning an exchange semester in South Korea. This countr
 
 After a couple more months of traveling through Asia I went back to Switzerland and started working at a software development company while also taking two more semesters of courses and writing my thesis "Machine Learning based KPIs for Effective Project Controlling". I'm writing a [blog series](https://blog.mimacom.com/building-an-etl-pipeline-for-jira/) covering some key aspects of the thesis. (Unfortunately I cannot make the paper pubicly available, since it contains company-sensitive information.)
 
-After achieving this milestone I am now operating as an external employee for a Swiss insurance company, primarily working on a quite interesting and versatile project for in-browser telephony integration for our callcenters.
+After achieving this milestone I am now operating as an external employee for a Swiss insurance company, primarily working on a versatile project for in-browser telephony integration for our callcenters.
 
 To be continued...

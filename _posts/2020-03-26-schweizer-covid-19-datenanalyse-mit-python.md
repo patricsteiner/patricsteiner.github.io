@@ -107,8 +107,8 @@ Aber hier noch mal ein bisschen übersichtlicher, welche Kantone den grössten *
 
 ![infected_percentage_top_ten](/images/2020-03-26/infected_percentage_top_ten.jpg)
 
-# 🏠 Blibet daheim!
-Ihr wisst es bereits, wir werden wahrscheinlich bald schon sehr überfüllte Spitäler haben... Darum: bleibt vielleich doch besser zu Hause. Wenn man nur die Fläche der Kantone beachtet, dann gilt das vor allem für unsere kleinen aber dicht besiedelten Kantone Basel-Stadt und Genf!
+# 🏠 Home sweet home
+Wir werden wahrscheinlich bald überfüllte Spitäler haben... Darum ist es wahrscheinlich keine schlechte Idee, möglichst zu Hause zu bleiben für den Moment. Wenn man nur die Fläche der Kantone beachtet, dann gilt das vor allem für unsere kleinen aber dicht besiedelten Kantone Basel-Stadt und Genf!
 
 ```python
 plt.title('Anzahl infizierte Personen pro Quadratkilometer')
