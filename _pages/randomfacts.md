@@ -10,5 +10,5 @@ Humans have two lungs which are directly in front of the heart. The lungs are co
 Sidenote: For people who have asthma, the cartilage rings in the trachea collapse, which makes it harder for air to go through. Medicine helps to open it back up.
 
 Sources:
-- https://www.youtube.com/watch?v=9xhxALk9gm8
-- https://www.youtube.com/watch?v=8NUxvJS-_0
+- [Some dude dissecting lungs](https://www.youtube.com/watch?v=9xhxALk9gm8)
+- [TED-Ed video](https://www.youtube.com/watch?v=8NUxvJS-_0k)
