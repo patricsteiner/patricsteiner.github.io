@@ -4,6 +4,14 @@ title: Random stuff I learned
 permalink: /randomfacts/
 ---
 
+### Random fact #3: How to read piano notes - 29.04.2020
+There are two clefs for piano sheet music: The treble clef for the higher notes (left hand) and the bass clef for the lower notes (right hand).
+The middle C is on the line between the two clefs, as can be seen in the image below. There is a pattern that is easy to remember, from which all other notes in the scale (C, D, E, F, G, A, H) can be derived.
+
+![Treble and bass clef notes](https://i.imgur.com/3UBiwau.png "Treble and bass clef notes")
+
+
+
 ### Random fact #2: How a Chrome extension works - 21.04.2020
 Chrome extensions allow us to extend the functionality of the browser or specific websites. We can for example block or redirect requests, preload content in new tabs or implement our own dark mode for certain pages. A Chrome extension is written in JavaScript/TypeScript and made out of the following parts:
 
