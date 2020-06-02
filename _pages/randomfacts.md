@@ -4,6 +4,13 @@ title: Random stuff I learned
 permalink: /randomfacts/
 ---
 
+### Random fact #4: "En passant" chess rule - 25.05.2020
+When moving a pawn two squares, in the very next turn (and only in this turn) it is allowed for an opposing pawn to capture the moved pawn as if it only moved one square. This only applies to pawns, no other unit can capture a pawn "en passant".
+
+![En passant move in chess](https://i.imgur.com/YJskQYY.gif)
+
+
+
 ### Random fact #3: How to read piano notes - 29.04.2020
 There are two clefs for piano sheet music: The treble clef for the higher notes (left hand) and the bass clef for the lower notes (right hand).
 The middle C is on the line between the two clefs, as can be seen in the image below. There is a pattern that is easy to remember, from which all other notes in the scale (C, D, E, F, G, A, H) can be derived.
