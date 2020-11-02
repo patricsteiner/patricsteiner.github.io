@@ -15,6 +15,11 @@ permalink: /about/
 And when I'm not in front of a computer:
 - 🏃🏋️🤸🌍😁
 
+### Projects
+Some projects I recently launched in my free time:
+- [OnyxRetro](https://onyxretro.web.app/):  A fresh app for online retrospectives with the goal to be as easy to use as possible (as opposed to common alternatives).
+- [Corona Simulator](https://patricsteiner.github.io/corona-simulator/): A visual simulation to help people understand how we can keep the spread of a virus under control.
+
 ## And here's the long story: My journey to computer science
 
 When I was in fourth grade, a friend of mine showed me that thing called Batch Scripting, which allows you to do lots of fun stuff. For instance, it only takes one command to make a message pop up on your parent’s computer whenever they log in. And with only one more command you can make that message pop up so many times, the computer can’t even handle it. How cool is that? I was amazed that the computer’s behavior could be controlled by just typing a few commands in a text file and execute it accordingly. That event quickly made computers become my main point of interest. During the next years, I taught myself whatever I could with the help of the internet. Near the end of my secondary education it was clear that I wished to undertake an apprenticeship in information technologies. 
@@ -29,6 +34,6 @@ One year in, I started planning an exchange semester in South Korea. This countr
 
 After a couple more months of traveling through Asia I went back to Switzerland and started working at a software development company while also taking two more semesters of courses and writing my thesis "Machine Learning based KPIs for Effective Project Controlling". I'm writing a [blog series](https://blog.mimacom.com/building-an-etl-pipeline-for-jira/) covering some key aspects of the thesis. (Unfortunately I cannot make the paper pubicly available, since it contains company-sensitive information.)
 
-After achieving this milestone I am now operating as an external employee for a Swiss insurance company, primarily working on a versatile project for in-browser telephony integration for our callcenters.
+After achieving this milestone I am now operating as an external employee for a Swiss insurance company, primarily working on a versatile project for in-browser telephony integration for our callcenters. Meanwhile, I also work on a couple of [side projects](https://github.com/patricsteiner/), just for fun and to learn new technologies.
 
 To be continued...
