@@ -5,7 +5,7 @@ image: think.jpg
 categories: [thinking, philosophy]
 ---
 
-This is a summary of the talk [How to think](https://www.youtube.com/watch?v=_fB8GRotdrc) by André Staltz.
+This is a summary of the talk [How to think](https://www.youtube.com/watch?v=_fB8GRotdrc) by André Staltz. He compares the human thinking process to the one of a computer and explains some tips on how to come up with good ideas.
 
 ## Why thinking is hard
 
