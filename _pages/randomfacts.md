@@ -4,6 +4,12 @@ title: Random stuff I learned
 permalink: /randomfacts/
 ---
 
+### Random fact #7: Weaknesses can be turned into strengths - 19.11.2020
+I actually learned this one around 10 years ago from my parkour trainer. Just because I have a certain weakness, does not mean this cannot be changed. I just need to make a conscious decision and with enough determination, it can be turned into a strength. I already proved this to myself many times over the last years. Today, two days after injuring my already-weak knee, I once again decide to turn a weakness into a strength. It will take time, it will take a lot of effort, but I will not stop working on the injury until my injured knee is at least as strong as the other one, and I can jump higher than ever 😁
+
+### Random fact #6: Common keyboard layouts are terrible for desktop computers - 10.10.2020
+The QWERTY/QWERTZ keyboard layout was designed for typewriters. The keys are arranged in such a way that letters which are often used together, are far away from each other, so they cannot be pressed quickly enough and cause jamming of keys. But modern keyboards don't jam! Other layouts, such as DVORAK, Colemak and workman, address this issue and _drastically_ reduce the movement of fingers and thus increase typing speed and decrease chance of injury. Might be a good idea to switch at some point... 
+
 ### Random fact #5: Binary search for git commits - 03.09.2020
 When trying to find a commit that broke a piece of code, `git bisect start` can be used to initiate a binary search for the commit. Type `git bisect bad`, meaning current revision is broken, and then `git bisect good HASH_OF_A_WORKING_REVISION`. A revision in the middle of good and bad will then be checked out. Test if it works and type either `git bisect good` or `git bisect bad`. Repeat the process until you find the commit that broke the code. Then end with `git bisect reset` to return to the HEAD 🙌.
 
