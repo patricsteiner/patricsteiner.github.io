@@ -122,4 +122,4 @@ plt.show()
 Danke fürs Lesen 😁✌🏻
 
 
-_PS: Wenn ich mal dazu komme, werde ich mich noch einer kleinen Domino-Effekt-Simulation widmen um das Exponentielle Wachstum einer solchen Pandemie möglichst verständlich zu visualisieren... Oder falls das bereits jemand macht oder gemacht hat, let me know!_
+_PS: Wenn ich mal dazu komme, werde ich mich noch einer kleinen Domino-Effekt-Simulation widmen um das Exponentielle Wachstum einer solchen Pandemie möglichst verständlich zu visualisieren... Oder falls das bereits jemand macht oder gemacht hat, let me know! Nachtrag: [here you go ;)](https://patricsteiner.github.io/interactive-virus-simulation-and-exponential-growth/)_
