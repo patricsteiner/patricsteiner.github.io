@@ -30,9 +30,9 @@ Ok, weit ausgeholt, nun zum eigentlichen Thema:
 - Wenn es eine Backdoor gibt, hat der Herausgeber Zugriff auf alles, und das werden früher oder später auch die Regierung und Hacker ausnutzen. [^4]
 
 ## Überzeugt?
-Es gibt hervorragende Alternativen zu WhatsApp! Sei es [Threema](https://threema.ch/){:target="_blank"}, [Signal](https://signal.org/){:target="_blank"}, [Element](https://element.io/){:target="_blank"}, [Telegram](https://telegram.org/){:target="_blank"}, [Briar](https://briarproject.org/){:target="_blank"}, ... Überlege dir, [worauf du Wert legst](https://www.eff.org/deeplinks/2018/03/thinking-about-what-you-need-secure-messenger){:target="_blank"} und wähle einen passenden Messenger aus. Wenn du nicht lange überlegen willst, dann ist wohl [Signal](https://signal.org/){:target="_blank"} die nächstbeste Wahl, da Signal bereits sehr verbreitet ist und äusserlich ziemlich ähnlich wie WhatsApp ist. Im Gegensatz zu WhatsApp wird Signal aber von einer non-profit Organisation entwickelt und der Code ist öffentlich verfügbar und somit verifizierbar [^5]. Der Wechsel ist ein kleiner Aufwand und es lohnt sich, wirklich. Sag das den Leuten, die dir wichtig sind.
+Es gibt hervorragende Alternativen zu WhatsApp! Sei es [Threema](https://threema.ch/){:target="_blank"}, [Signal](https://signal.org/){:target="_blank"}, [Element](https://element.io/){:target="_blank"}, [Telegram](https://telegram.org/){:target="_blank"}, [Briar](https://briarproject.org/){:target="_blank"}, ... Überlege dir, [worauf du Wert legst](https://www.eff.org/deeplinks/2018/03/thinking-about-what-you-need-secure-messenger){:target="_blank"} und wähle einen passenden Messenger aus. Wenn du nicht lange überlegen willst, dann ist wohl [Signal](https://signal.org/){:target="_blank"} die nächstbeste Wahl, da Signal bereits sehr verbreitet und äusserlich ziemlich ähnlich wie WhatsApp ist. Im Gegensatz zu WhatsApp wird Signal aber von einer non-profit Organisation entwickelt und der Code ist öffentlich verfügbar und somit verifizierbar [^5]. Der Wechsel ist ein kleiner Aufwand und es lohnt sich, wirklich. Sag das den Leuten, die dir wichtig sind.
 
-### Ein paar schnelle Tipps für eine bessere Privatsphäre:
+### Sonstige Tipps für eine bessere Privatsphäre:
 - Falls noch nicht gemacht: Deinstalliere WhatsApp und verwende eine der oben genannten moralischen Alternativen, wie z.B. [Signal](https://signal.org/de/){:target="_blank"}.
 - Alle Einstellungen/Berechtigungen auf deinem Handy & PC durchgehen und alles, was nicht unbedingt nötig ist, ausschalten/verbieten (z.B. Microsoft Cortana - braucht das echt jemand?).
 - Chrome deinstallieren und einen anderen Browser verwenden, wie z.B. [Brave](https://brave.com/){:target="_blank"} oder [Firefox](https://www.mozilla.org/en-US/firefox/new/){:target="_blank"}.
@@ -51,6 +51,9 @@ Es gibt hervorragende Alternativen zu WhatsApp! Sei es [Threema](https://threema
 - Kein Handy verwenden (egal, welche Vorkehrungen du triffst, sogar wenn du einen alten Knochen verwendest: Das Handynetz kann nicht genutzt werden, ohne getrackt zu werden). [^7]  
 
 Es versteht sich von selbst, dass bei der Benutzung von Diensten wie Instagram, Facebook, TikTok etc. eine anonyme und Privatsphäre respektierende Nutzung nicht möglich ist, denn diese Dienste leben ja genau von deinen Daten. Also entweder bist du damit einverstanden oder du verzichtest einfach auf diese Apps. 
+
+## Fazit
+Mit ziemlich wenig Aufwand kannst du deine Privatsphäre ziemlich stark verbessern. Tu dir und der Welt einen gefallen und sei dir über die Situation und die Möglichkeiten bewusst. Je mehr Leute das tun, desto stärker können wir uns wehren gegen die massive Überwachung.
 
 ## Anmerkungen
 [^1]: Das wohl bekannteste Beispiel ist das [Cambridge Analytica Skandal](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal){:target="_blank"}, bei dem Daten von Millionen von Facebook Benutzern illegal für Micro-targeting von Werbung für die US-Präsidentschaftswahlen von 2016 verwendet wurden.
