@@ -30,14 +30,14 @@ Ok, weit ausgeholt, nun zum eigentlichen Thema:
 - Wenn es eine Backdoor gibt, hat der Herausgeber Zugriff auf alles, und das werden früher oder später auch die Regierung und Hacker ausnutzen. [^4]
 
 ## Überzeugt?
-Es gibt hervorragende Alternativen zu WhatsApp! Sei es [Threema](https://threema.ch/){:target="_blank"}, [Signal](https://signal.org/){:target="_blank"}, [Element](https://element.io/){:target="_blank"}, [Telegram](https://telegram.org/){:target="_blank"}, [Briar](https://briarproject.org/){:target="_blank"}, ... Überlege dir, [worauf du Wert legst](https://www.eff.org/deeplinks/2018/03/thinking-about-what-you-need-secure-messenger){:target="_blank"} und wähle einen passenden Messenger aus. Wenn du nicht lange überlegen willst, dann empfehle ich [Signal](https://signal.org/){:target="_blank"}. Der Wechsel ist ein kleiner Aufwand und es lohnt sich, wirklich. Sag das den Leuten, die dir wichtig sind.
- 
-Ein paar schnelle Tipps für eine bessere Privatsphäre:
+Es gibt hervorragende Alternativen zu WhatsApp! Sei es [Threema](https://threema.ch/){:target="_blank"}, [Signal](https://signal.org/){:target="_blank"}, [Element](https://element.io/){:target="_blank"}, [Telegram](https://telegram.org/){:target="_blank"}, [Briar](https://briarproject.org/){:target="_blank"}, ... Überlege dir, [worauf du Wert legst](https://www.eff.org/deeplinks/2018/03/thinking-about-what-you-need-secure-messenger){:target="_blank"} und wähle einen passenden Messenger aus. Wenn du nicht lange überlegen willst, dann ist wohl [Signal](https://signal.org/){:target="_blank"} die nächstbeste Wahl, da Signal bereits sehr verbreitet ist und äusserlich ziemlich ähnlich wie WhatsApp ist. Im Gegensatz zu WhatsApp wird Signal aber von einer non-profit Organisation entwickelt und der Code ist öffentlich verfügbar und somit verifizierbar [^5]. Der Wechsel ist ein kleiner Aufwand und es lohnt sich, wirklich. Sag das den Leuten, die dir wichtig sind.
+
+### Ein paar schnelle Tipps für eine bessere Privatsphäre:
 - Falls noch nicht gemacht: Deinstalliere WhatsApp und verwende eine der oben genannten moralischen Alternativen, wie z.B. [Signal](https://signal.org/de/){:target="_blank"}.
 - Alle Einstellungen/Berechtigungen auf deinem Handy & PC durchgehen und alles, was nicht unbedingt nötig ist, ausschalten/verbieten (z.B. Microsoft Cortana - braucht das echt jemand?).
 - Chrome deinstallieren und einen anderen Browser verwenden, wie z.B. [Brave](https://brave.com/){:target="_blank"} oder [Firefox](https://www.mozilla.org/en-US/firefox/new/){:target="_blank"}.
 - [DuckDuckGo](https://duckduckgo.com/){:target="_blank"} anstelle von Google als Suchmaschine verwenden.
-- Folgende (Firefox) Addons installieren: [^5]
+- Folgende (Firefox) Addons installieren: [^6]
   - [uBlock origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/){:target="_blank"}: Blocker für Werbung, Tracker & Malware
   - [Privacy Badger](https://privacybadger.org/){:target="_blank"}: Progressiver Tracking Schutz
   - [HTTPS everywhere](https://www.eff.org/https-everywhere){:target="_blank"}: Forciert verschlüsselte Verbindung
@@ -45,10 +45,10 @@ Ein paar schnelle Tipps für eine bessere Privatsphäre:
 
 ### Und wer noch weiter gehen will:
 - Neue Email Adresse erstellen bei einem Anbieter, der deine Privatsphäre nicht verletzt, wie z.B. [ProtonMail](https://protonmail.com/){:target="_blank"}.
-- Einen vertrauenswürdigen VPN verwenden (wobei du dir im Klaren sein musst, dass du hier einfach die Vertrauensbasis von deinem ISP (z.B. Swisscom) zum VPN verschiebst - also überleg dir gut, welchen VPN du nimmst).
+- Einen vertrauenswürdigen VPN Tunnel verwenden (eine verschlüsselte Verbindung mit einem Virtual Private Network). Dabei solltest du dir aber im Klaren sein, dass du hier einfach die Vertrauensbasis von deinem ISP (z.B. Swisscom) zum VPN verschiebst - also überleg dir gut, welchen VPN du nimmst.
 - Oder sogar eine kleine Performance Einbusse in Kauf nehmen und den [TOR Browser](https://www.torproject.org/download/){:target="_blank"} verwenden, damit du nicht mal mehr deinem VPN vertrauen musst und mit höchstmöglicher Anonymität im Internet unterwegs bist.
 - Linux anstatt Windows verwenden.
-- Kein Handy verwenden (egal, welche Vorkehrungen du triffst, sogar wenn du einen alten Knochen verwendest: Das Handynetz kann nicht genutzt werden, ohne getrackt zu werden). [^6]  
+- Kein Handy verwenden (egal, welche Vorkehrungen du triffst, sogar wenn du einen alten Knochen verwendest: Das Handynetz kann nicht genutzt werden, ohne getrackt zu werden). [^7]  
 
 Es versteht sich von selbst, dass bei der Benutzung von Diensten wie Instagram, Facebook, TikTok etc. eine anonyme und Privatsphäre respektierende Nutzung nicht möglich ist, denn diese Dienste leben ja genau von deinen Daten. Also entweder bist du damit einverstanden oder du verzichtest einfach auf diese Apps. 
 
@@ -57,6 +57,7 @@ Es versteht sich von selbst, dass bei der Benutzung von Diensten wie Instagram, 
 [^2]: Aus den Spuren, die du hinterlässt, wird ein [digitaler Fingerabdruck](https://ssd.eff.org/en/module/what-fingerprinting#0){:target="_blank"} erstellt.
 [^3]: Das WhatsApp Monopol pro Land ist z.B. in [diesen WhatsApp Nutzungsstatistiken](https://www.businessofapps.com/data/whatsapp-statistics/){:target="_blank"} ersichtlich.
 [^4]: Wenn es eine Hintertür gibt, wer hindert dann die Kriminellen, diese zu Nutzen? [Es gibt keine good-guys-only backdoor](https://www.helpnetsecurity.com/2020/05/26/backdoor-encryption/){:target="_blank"}.
-[^5]: Ein Gegenargument für mehrere Browser Addons wäre, dass hierdurch [Fingerprinting vereinfacht werden kann](https://ssd.eff.org/en/module/what-fingerprinting#4){:target="_blank"}. Also wer auf Firefox verzichten kann, kann auch einen Browser wie [Brave](https://brave.com/){:target="_blank"} in Betracht ziehen.
-[^6]: Denkst du, GPS ausschalten hilft zu verbergen, wo du bist? Falsch gedacht. Mit WiFi und Bluetooth kann man dich fast genauso gut orten, indem man sich die verfügbaren Netzwerke und Geräte in der Nähe anschaut. Und wenn du WiFi und Bluetooth auch ausschaltest? Dein Handy kommuniziert immer noch mit Telefonnetzantennen (wie sonst sollte dich jemand anrufen können?). Durch Triangulation bist du immer noch sehr gut ortbar. Telefon ausschalten? [Sogar das kann noch Informationen preisgeben](https://ssd.eff.org/en/module/problem-mobile-phones).
+[^5]: Signal ist zwar sehr viel vertrauenswürdiger als WhatsApp, aber dennoch _ist_ ein gewisses Vertrauen zum Signal Server notwendig. Um komplett trustless unterwegs zu sein, müsste man hier eine dezentrale (Peer to Peer) Lösung verwenden, die entweder auf einer Blockchain oder in einem Onion Netzwerk läuft. Briar wäre eine Option.
+[^6]: Ein Gegenargument für mehrere Browser Addons wäre, dass hierdurch [Fingerprinting vereinfacht werden kann](https://ssd.eff.org/en/module/what-fingerprinting#4){:target="_blank"}. Also wer auf Firefox verzichten kann, kann auch einen Browser wie [Brave](https://brave.com/){:target="_blank"} in Betracht ziehen.
+[^7]: Denkst du, GPS ausschalten hilft zu verbergen, wo du bist? Falsch gedacht. Mit WiFi und Bluetooth kann man dich fast genauso gut orten, indem man sich die verfügbaren Netzwerke und Geräte in der Nähe anschaut. Und wenn du WiFi und Bluetooth auch ausschaltest? Dein Handy kommuniziert immer noch mit Telefonnetzantennen (wie sonst sollte dich jemand anrufen können?). Durch Triangulation bist du immer noch sehr gut ortbar. Telefon ausschalten? [Sogar das kann noch Informationen preisgeben](https://ssd.eff.org/en/module/problem-mobile-phones).
 
