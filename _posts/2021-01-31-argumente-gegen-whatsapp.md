@@ -6,7 +6,7 @@ categories: [privacy]
 ---
 
 Privatsphäre ist eine Grundlage der Menschenrechte. Sie sollte der Standard sein, nicht die Ausnahme. Aber leider ist das nicht mehr der Fall. Alles, was irgendwie geht, wird überwacht, gespeichert und für manipulative Zwecke verwendet.
-Ich finde, dagegen sollten wir uns wehren. Ein einfacher aber wichtiger Schritt, den wir alle machen können, ist auf die Verwendung von WhatsApp zu verzichten.
+Ich finde, dagegen sollten wir uns wehren. Ein einfacher aber wichtiger Schritt, den wir machen können, ist auf die Verwendung von WhatsApp zu verzichten.
 
 ## "Mir doch egal, was die mit meinen Daten machen"
 Das ist leider die Meinung vieler Leute. Ed Snowden erwidert sie folgendermassen:
@@ -22,7 +22,7 @@ Ok, weit ausgeholt, nun zum eigentlichen Thema:
 ## Argumente gegen WhatsApp
 - WhatsApp ist für Nutzer gratis und zeigt auch keine Werbung, aber dennoch hat Facebook 19 Milliarden USD dafür bezahlt. Da geht irgendwas nicht auf... (Klar, es gibt noch WhatsApp Business, aber das allein kann ja nicht der Grund sein.)
 - [Gewisse Länder bannen sichere Messenger](https://signal.org/blog/help-iran-reconnect/){:target="_blank"} und lassen nur WhatsApp zu. Warum sollte die Regierung das tun? Auch das ist doch irgendwie besorgniserregend...
-- WhatsApp hat in vielen Ländern das Messenger Monopol und damit sehr viel Macht (siehe z.B. [diese Nutzungsstatistiken](https://www.businessofapps.com/data/whatsapp-statistics/){:target="_blank"})). [Monokulturen sind selten eine gute Idee](https://hbr.org/2018/03/here-are-all-the-reasons-its-a-bad-idea-to-let-a-few-tech-companies-monopolize-our-data){:target="_blank"}. Hilf mit, dies zumindest in der Schweiz zu ändern! Wäre schön, wenn wir das hinkriegen.
+- WhatsApp hat in vielen Ländern das Messenger Monopol und damit sehr viel Macht (siehe z.B. [diese Nutzungsstatistiken](https://www.businessofapps.com/data/whatsapp-statistics/){:target="_blank"}). [Monokulturen sind selten eine gute Idee](https://hbr.org/2018/03/here-are-all-the-reasons-its-a-bad-idea-to-let-a-few-tech-companies-monopolize-our-data){:target="_blank"}. Hilf mit, dies zumindest in der Schweiz zu ändern! Wäre schön, wenn wir das hinkriegen.
 - Facebook sammelt deine Daten und verwendet sie zu unmoralischen Zwecken (z.B. Beeinflussung Kaufverhalten, politische Einstellung, Weltansicht, zukünftige Arbeitsstellen bzw. Verweigerung deren, ...). Bekanntestes Beispiel: [Cambridge Analytica Skandal](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal){:target="_blank"}.
 - Nein, es ist nicht relevant, ob du einen Facebook Account hast oder nicht. Von dir wird so oder so ein Profil im Hintergrund erstellt (ein [digitaler Fingerabdruck](https://ssd.eff.org/en/module/what-fingerprinting#0){:target="_blank"}, anhand dem du identifiziert und verfolgt wirst).
 - WhatsApp behauptet zwar, dass deine Nachrichten verschlüsselt werden. Wer weiss, ob das stimmt, ist ja nicht verifizierbar, da der Code nicht open source ist. Und sogar wenn: Metadaten werden nicht verschlüsselt! [Und die sind oft wichtiger als die Nachrichten selbst](https://ssd.eff.org/en/module/why-metadata-matters){:target="_blank"}!
@@ -42,7 +42,7 @@ Es gibt hervorragende Alternativen zu WhatsApp! Sei es [Threema](https://threema
 - Im Gegensatz zu WhatsApp wird Signal von einer [non-profit Organisation](https://en.wikipedia.org/wiki/Signal_Foundation){:target="_blank"} entwickelt und lebt von Spenden und Freiwilligen, die sich für bessere Privatsphäre einsetzen. Klingt das nicht viel vertrauenswürdiger als Facebook, die mit deinen Daten Milliarden $$$ machen?
 - Der Code ist [open source](https://github.com/signalapp){:target="_blank"} und somit verifizierbar (d.h. man kann einfach selber überprüfen, ob Signal wirklich nur das macht, was behauptet wird, und keine bösen Sachen \*).
 - Mit Signal kannst du Nachrichten schreiben, die sich nach einer bestimmten Zeit selbst zerstören.
-- Es gibt aber natürlich Nachteile:
+- Es gibt aber natürlich auch Nachteile:
   - Signal benötigt eine Telefonnummer, also anonym bist du nicht (aber die Leute, mit denen du kommunizierst, kennen dich ja wahrscheinlich ohnehin - und abgesehen davon kommt niemand an deine Nummer). Hat dafür den Vorteil, dass du deine vorhandenen Kontakte verwenden kannst. Wenn du das nicht willst, wäre Threema eine weitere gute Alternative.
   - Auch Signal ist USA basiert.
   - Hat keine Stories. Für mich persönlich kein Nachteil, denn das gehört ohnehin nicht in einen Messenger (und interessierst du dich wirklich dafür, was die Leute da posten, oder ist es nur zusätzliche Zeitverschwendung?)
