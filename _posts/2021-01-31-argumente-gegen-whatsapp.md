@@ -32,7 +32,7 @@ Ok, weit ausgeholt, nun zum eigentlichen Thema:
 - Gibt es irgend ein Pro-Argument, abgesehen von "alle anderen nutzen auch WhatsApp, darum brauche ich es auch"? Und das ist in meinen Augen ein ziemlich schwaches Argument. Nur weil alle etwas tun, heisst das noch lange nicht, dass es das Richtige ist... Und in diesem Fall ist zum Glück nur wenig Aufwand nötig, um das zu ändern!
 
 ## Und jetzt?
-Es gibt hervorragende Alternativen zu WhatsApp! Sei es [Threema](https://threema.ch/){:target="_blank"}, [Signal](https://signal.org/){:target="_blank"}, [Element](https://element.io/){:target="_blank"}, [Telegram](https://telegram.org/){:target="_blank"}, [Briar](https://briarproject.org/){:target="_blank"}, ... Überlege dir, [worauf du Wert legst](https://www.eff.org/deeplinks/2018/03/thinking-about-what-you-need-secure-messenger){:target="_blank"} und wähle einen passenden Messenger aus, jeder hat seine eigenen Vor- und Nachteile. Wenn du nicht lange überlegen willst, dann ist wohl [Signal](https://signal.org/){:target="_blank"} die nächstbeste Wahl.
+Es gibt hervorragende Alternativen zu WhatsApp! Sei es [Threema](https://threema.ch/){:target="_blank"}, [Signal](https://signal.org/){:target="_blank"}, [Element](https://element.io/){:target="_blank"}, [Briar](https://briarproject.org/){:target="_blank"}, ... Überlege dir, [worauf du Wert legst](https://www.eff.org/deeplinks/2018/03/thinking-about-what-you-need-secure-messenger){:target="_blank"} und wähle einen passenden Messenger aus, jeder hat seine eigenen Vor- und Nachteile. Wenn du nicht lange überlegen willst, dann ist wohl [Signal](https://signal.org/){:target="_blank"} die nächstbeste Wahl.
 
 ### Warum Signal?
 - Sichere Verschlüsselung von allen Inhalten, [auch für Metadaten](https://signal.org/blog/sealed-sender/){:target="_blank"}.
@@ -40,13 +40,13 @@ Es gibt hervorragende Alternativen zu WhatsApp! Sei es [Threema](https://threema
 - Signal ist bereits sehr verbreitet, also wirst du auch viele deiner Kontakte bereits auf Signal finden.
 - Signal ist äusserlich sehr ähnlich wie WhatsApp, also wirst du dich nicht umgewöhnen müssen.
 - Im Gegensatz zu WhatsApp wird Signal von einer [non-profit Organisation](https://en.wikipedia.org/wiki/Signal_Foundation){:target="_blank"} entwickelt und lebt von Spenden und Freiwilligen, die sich für bessere Privatsphäre einsetzen. Klingt das nicht viel vertrauenswürdiger als Facebook, die mit deinen Daten Milliarden $$$ machen?
-- Der Code ist [open source](https://github.com/signalapp){:target="_blank"} und somit verifizierbar (d.h. man kann einfach selber überprüfen, ob Signal wirklich nur das macht, was behauptet wird, und keine bösen Sachen <sup>1</sup>).
+- Der Code ist [open source](https://github.com/signalapp){:target="_blank"} und somit verifizierbar (d.h. man kann einfach selber überprüfen, ob Signal wirklich nur das macht, was behauptet wird, und keine bösen Sachen \*).
 - Mit Signal kannst du Nachrichten schreiben, die sich nach einer bestimmten Zeit selbst zerstören.
-- Es gibt aber natürlich doch auch einige Nachteile:
+- Es gibt aber natürlich Nachteile:
   - Signal benötigt eine Telefonnummer, also anonym bist du nicht (aber die Leute, mit denen du kommunizierst, kennen dich ja wahrscheinlich ohnehin - und abgesehen davon kommt niemand an deine Nummer). Hat dafür den Vorteil, dass du deine vorhandenen Kontakte verwenden kannst. Wenn du das nicht willst, wäre Threema eine weitere gute Alternative.
   - Auch Signal ist USA basiert.
   - Hat keine Stories. Für mich persönlich kein Nachteil, denn das gehört ohnehin nicht in einen Messenger (und interessierst du dich wirklich dafür, was die Leute da posten, oder ist es nur zusätzliche Zeitverschwendung?)
-  - <sup>1</sup> Wie die meisten Messaging Apps benötigt Signal trotz allem einen Server, um zu funktionieren, und das bedingt ein gewisses Vertrauen. Um komplett "trustless" und anonym unterwegs zu sein, müsste man eine dezentrale (Peer to Peer) Lösung verwenden, die im besten Fall noch über ein [Onion Netzwerk](https://en.wikipedia.org/wiki/Onion_routing){:target="_blank"} läuft. Briar wäre hier eine interessante Option.
+  - \* Wie die meisten Messaging Apps benötigt Signal trotz allem einen Server, um zu funktionieren, und das bedingt ein gewisses Vertrauen. Um komplett "trustless" und anonym unterwegs zu sein, müsste man eine dezentrale (Peer to Peer) Lösung verwenden, die im besten Fall noch über ein [Onion Netzwerk](https://en.wikipedia.org/wiki/Onion_routing){:target="_blank"} läuft. Briar wäre hier eine interessante Option.
 
 Der Wechsel ist ein kleiner Aufwand und es lohnt sich, wirklich. Sag das den Leuten, die dir wichtig sind. Hast du noch Gruppenchats auf WhatsApp, die du brauchst? Es geht schnell, auch diese Gruppenchats aufzuklären und zu migrieren, also keine Ausrede...
 
@@ -55,13 +55,13 @@ Der Wechsel ist ein kleiner Aufwand und es lohnt sich, wirklich. Sag das den Leu
 - Alle Einstellungen/Berechtigungen auf deinem Handy & PC durchgehen und alles, was nicht unbedingt nötig ist, ausschalten/verbieten (z.B. Microsoft Cortana - braucht das echt jemand?).
 - Chrome deinstallieren und einen anderen Browser verwenden, wie z.B. [Brave](https://brave.com/){:target="_blank"} oder [Firefox](https://www.mozilla.org/en-US/firefox/new/){:target="_blank"}.
 - [DuckDuckGo](https://duckduckgo.com/){:target="_blank"} anstelle von Google als Suchmaschine verwenden.
-- Folgende (Firefox) Addons installieren: <sup>2</sup>
+- Folgende (Firefox) Addons installieren: \*
   - [uBlock origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/){:target="_blank"}: Blocker für Werbung, Tracker & Malware
   - [Privacy Badger](https://privacybadger.org/){:target="_blank"}: Progressiver Tracking Schutz
   - [HTTPS everywhere](https://www.eff.org/https-everywhere){:target="_blank"}: Forciert verschlüsselte Verbindung
   - [Decentraleyes](https://decentraleyes.org/){:target="_blank"}: Verhindert unnötige Serveranfragen, Tracking Schutz
 
-<sup>2</sup> Ein Gegenargument für mehrere Browser Addons ist, dass hierdurch [Fingerprinting vereinfacht werden kann](https://ssd.eff.org/en/module/what-fingerprinting#4){:target="_blank"}. Also wer auf Firefox verzichten kann, sollte einen Browser wie [Brave](https://brave.com/){:target="_blank"} in Betracht ziehen.
+\* Ein Gegenargument für mehrere Browser Addons ist, dass hierdurch [Fingerprinting vereinfacht werden kann](https://ssd.eff.org/en/module/what-fingerprinting#4){:target="_blank"}. Also wer auf Firefox verzichten kann, sollte einen Browser wie [Brave](https://brave.com/){:target="_blank"} in Betracht ziehen.
  
 ### Und wer noch weiter gehen will:
 - Neue Email Adresse erstellen bei einem Anbieter, der deine Privatsphäre nicht verletzt, wie z.B. [ProtonMail](https://protonmail.com/){:target="_blank"}.
