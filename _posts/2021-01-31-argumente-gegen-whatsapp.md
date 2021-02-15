@@ -75,5 +75,5 @@ Der Wechsel ist ein kleiner Aufwand und es lohnt sich, wirklich. Sag das den Leu
 Es versteht sich von selbst, dass bei der Benutzung von Diensten wie Instagram, Facebook, TikTok etc. eine anonyme und Privatsphäre respektierende Nutzung nicht möglich ist, denn diese Dienste leben ja genau von deinen Daten. Das ist aber nochmal ein anderes Thema. Der Film [The Social Dilemma](https://www.thesocialdilemma.com/){:target="_blank"} verbildlicht die Problematik mit sozialen Medien sehr treffend und ist einfach verständlich. Sehr sehenswert, wenn man denkt, soziale Medien seien kein Problem für die Menschheit.
 
 ## Fazit
-Die Massenüberwachung und die damit verbundene Verletzung der Privatsphäre, ist leider nicht so einfach fassbar, aber langfristig eine sehr ernst zu nehmende Gefahr für unsere Freiheit.
+Die Massenüberwachung und die damit verbundene Verletzung der Privatsphäre ist leider nicht so einfach fassbar, aber langfristig eine sehr ernst zu nehmende Gefahr für unsere Freiheit.
 Mit ziemlich wenig Aufwand kannst du deine Privatsphäre ziemlich stark verbessern. Tu dir und der Welt einen gefallen und sei dir über die Situation und die Möglichkeiten bewusst. Je mehr Leute das tun, desto stärker können wir uns gegen die massive Überwachung wehren und uns für eine bessere Zukunft einsetzen.
