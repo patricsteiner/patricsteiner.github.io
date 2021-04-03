@@ -4,6 +4,19 @@ title: Random stuff I learned
 permalink: /randomfacts/
 ---
 
+### Random fact #9: Doping in elite level sports - 03.04.2021
+Elite level sport competitions are very corrupt, especially the olympics. Almost every top athlete uses [PEDs](https://en.wikipedia.org/wiki/Performance-enhancing_substance).
+It's an illusion to think you can win with talent and hard work only. Because someone else with talent and hard work _and_ PEDs will beat you. So if you want to win, you need PEDs (and thus harm your body).
+Anti-doping, which is said to bring safety and fairness to sport competitions, causes quite the opposite of what it is supposed to be doing:
+- Instead of using safe and well researched compounds, athletes use dangerous and untested substances.
+- Different countries have vastly different (or no) drug testing policies which makes international competitions even more unfair.
+- Testing itself is very difficult and unfair, even if people don't cheat. Genetics and enzymes (or absence thereof) have a very high impact on results of testosterone tests for example.
+- Anti-doping demonizes PEDs and their research (some of which have clinical uses).
+- It brainwashes the public (esp. children) to believe that sport is fair and no top athlete uses drugs.
+Unfortunately there is no easy solution to this problem, but it surely seems that the prohibition of drugs causes more harm than good.
+
+Source: [This very well put together and backed up video by Clarence Kennedy, a popular Irish weightlifter](https://www.youtube.com/watch?v=HQLweuRSD9M)
+
 ### Random fact #8: Slow down aging - 16.01.2021
 There are different theories of what exactly aging is and how it is caused, but fundamentally, it comes down to loss of information in our cells.
 One __hypothesis__ is, that aging is caused not by loss of information in the DNA, but in the [epigenome](https://en.wikipedia.org/wiki/Epigenome). 
