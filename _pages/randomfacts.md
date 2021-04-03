@@ -13,6 +13,7 @@ Anti-doping, which is said to bring safety and fairness to sport competitions, c
 - Testing itself is very difficult and unfair, even if people don't cheat. Genetics and enzymes (or absence thereof) have a very high impact on results of testosterone tests for example.
 - Anti-doping demonizes PEDs and their research (some of which have clinical uses).
 - It brainwashes the public (esp. children) to believe that sport is fair and no top athlete uses drugs.
+
 Unfortunately there is no easy solution to this problem, but it surely seems that the prohibition of drugs causes more harm than good.
 
 Source: [This very well put together and backed up video by Clarence Kennedy, a popular Irish weightlifter](https://www.youtube.com/watch?v=HQLweuRSD9M)
@@ -20,7 +21,7 @@ Source: [This very well put together and backed up video by Clarence Kennedy, a 
 ### Random fact #8: Slow down aging - 16.01.2021
 There are different theories of what exactly aging is and how it is caused, but fundamentally, it comes down to loss of information in our cells.
 One __hypothesis__ is, that aging is caused not by loss of information in the DNA, but in the [epigenome](https://en.wikipedia.org/wiki/Epigenome). 
-The epigenum basically tells the cell, what kind of cell it is by "turning on or off" some parts of the DNA in this cell.
+The epigenome basically tells the cell, what kind of cell it is by "turning on or off" some parts of the DNA in this cell.
 If this information is lost, a cell is not reading the correct genes anymore and basically starts doing things it is not supposed to do.
 What's interesting is that there are longevity genes that can prevent this effect. They are "activated" when conditions get tougher and then 
 instead of growing and reproducing, cells go in some kind of protection mode.
