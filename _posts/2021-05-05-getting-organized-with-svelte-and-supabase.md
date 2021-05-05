@@ -85,7 +85,7 @@ Just some basic javascript/typescript, nothing special here:
 ## Layout
 Again, I will just go with the most simple html layout that does the job. See how easy that Svelte syntax is? 😃 (`<style>` omitted for brevity).
 
-```
+```html
 <div id="board">
     {#each lanes as lane}
         <div class="lane">
