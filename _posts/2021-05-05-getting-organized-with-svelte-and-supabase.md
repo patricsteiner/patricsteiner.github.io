@@ -18,7 +18,7 @@ A minimal webapp where I can put postits with stuff that I want to keep track of
 Setting up Svelte is super easy, we just copy the template project using degit:
 
 ```
-npx degit Sveltejs/template samsboard
+npx degit sveltejs/template samsboard
 cd samsboard
 node scripts/setupTypeScript.js
 npm i
@@ -163,7 +163,7 @@ What _doesn't_ work yet are Supabase realtime DB subscriptions in frontends (bec
 **Verdict**: Supabase is not (yet) a replacement for Firebase, but as long as you don't need specific Firebase features such as analytics, ML or other GCP stuff, I think you'll be quite happy with Supabase. 😊
 
 ## The product: Samsboard
-[Here it is](https://samsboard.vercel.app), a minimal viable product that does exactly what I want it to do and nothing else: A postit board that replaces my whiteboard (finally i can actually use my whiteboard to draw etc.).
+[Here it is](https://samsboard.vercel.app), a minimal viable product that does exactly what I want it to do and nothing else: A postit board that replaces my whiteboard (finally i can actually use my whiteboard to draw etc.). The app is not mobile friendly, because it is not supposed to be used on a smartphone but on a desktop or tablet.
 
 ![Samsboard](/images/samsboard.png)
 
@@ -173,6 +173,6 @@ What _doesn't_ work yet are Supabase realtime DB subscriptions in frontends (bec
 - Learning Supabase basics and integrating it in my app: 2h
 - Trying to find out how HTML5 drag&drop works (together with Svelte): longer than it should have
 - First time using Vercel for deployment: 10m (omg it's so easy!)
-- Not understanding how Supabase RLS (row level security) compares to firestore rules: 1h, still unsolved
+- Not understanding how Supabase RLS (row level security) compares to firestore rules: 1h, [still unsolved](https://stackoverflow.com/questions/67383726/supabase-postgrest-deny-select-multiple/)
 - Writing Blogpost: 1h
 - **TOTAL**: ~10h
