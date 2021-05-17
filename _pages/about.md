@@ -17,8 +17,9 @@ And when I'm not in front of a computer:
 
 ## Projects
 Some hobby projects I recently launched:
-- [OnyxRetro](https://onyxretro.web.app/):  A fresh app for online retrospectives with the goal to be as easy to use as possible (as opposed to common alternatives).
-- [Corona Simulator](https://patricsteiner.github.io/corona-simulator/): A visual simulation to help people understand how we can keep the spread of a virus under control.
+- [Samsboard](https://samsboard.vercel.app): A minimal virtual post-it board that helps you get a great overview of everything that's going on in your life. Tech: Svelte, Supabase
+- [OnyxRetro](https://onyxretro.web.app/):  A fresh app for online retrospectives with the goal to be as easy to use as possible (as opposed to common alternatives). Tech: Ionic, Firebase
+- [Corona Simulator](https://patricsteiner.github.io/corona-simulator/): A visual simulation to help people understand how we can keep the spread of a virus under control. Tech: Angular, TypeScript
 
 ## And here's the long story: My journey to computer science
 

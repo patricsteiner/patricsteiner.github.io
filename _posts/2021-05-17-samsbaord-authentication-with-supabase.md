@@ -5,7 +5,7 @@ image: samsboard.png
 categories: [supabase]
 ---
 
-[Two weeks ago](https://patricsteiner.github.io/getting-organized-with-svelte-and-supabase/) I played around with [Svelte](https://Svelte.dev/) and [Supabase](https://supabase.io/) to create [Samsboard](https://samsboard.vercel.app), a virtual postit board that helps you to get a great overview of all the stuff that's going on in your life.
+[Two weeks ago](https://patricsteiner.github.io/getting-organized-with-svelte-and-supabase/) I played around with [Svelte](https://Svelte.dev/) and [Supabase](https://supabase.io/) to create [Samsboard](https://samsboard.vercel.app), a minimal virtual post-it board that helps you get a great overview of everything that's going on in your life
 
 What I did _not_ do is setup authentication. Everyone with the id of a particular board had full access to that board. So theoretically you could just guess every possible [UUID](https://en.wikipedia.org/wiki/Universally_unique_identifier) out there and sometimes be lucky and find a board (it might take you a while though).
 
