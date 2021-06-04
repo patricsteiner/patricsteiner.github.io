@@ -4,6 +4,14 @@ title: Random stuff I learned
 permalink: /randomfacts/
 ---
 
+### Random fact #10: Spontaneous hay combustion - 04.06.2021
+Wet hay can ignite by itself. This first sounded very counter-intuitive to me - imagine trying to make a campfire with wet hay, it sounds almost impossible. _Dry_ hay sounds plausible to me, but _wet_ hay? How can hay ignite itself?
+
+It turns out that with a hay moisture of more than 25%, microbiological activity will start to happen (i.e. mold and bacteria). This produces heat. With enough water and air, metabolism rate further increases and temperature can raise up to 70°C. The decomposition of pectins (some kind of sugar) and proteins can further increase the temperature and produce pyrophoric gases and vapors which self-ignite with temperatures below 100°C --> 🔥🤯.
+
+Source: [German article about Heuselbstentzündung](https://de.wikipedia.org/wiki/Heuselbstentz%C3%BCndung)
+
+
 ### Random fact #9: Doping in elite level sports - 03.04.2021
 Elite level sport competitions are very corrupt, especially the olympics. Almost every top athlete uses [PEDs](https://en.wikipedia.org/wiki/Performance-enhancing_substance).
 It's an illusion to think you can win with talent and hard work only. Because someone else with talent and hard work _and_ PEDs will beat you. So if you want to win, you need PEDs (and thus harm your body).
