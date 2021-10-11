@@ -1,19 +1,58 @@
 ---
 layout: page
-title: About
+title: Patric Steiner
 permalink: /about/
 ---
 
-## TL;DR
+## Tech Enthusiast & Passionate Software Engineer
+- **Email**: patric.steiner1 at gmail dot com
+- **Github**: [patricsteiner](https://github.com/patricsteiner/)
+- **StackOverflow**: [Patric](https://stackoverflow.com/users/4030765/patric)
+- **LinkedIn**: [Patric Steiner](https://www.linkedin.com/in/patricsteiner/)
 
+## TL;DR
 - 🚀 I am a tech enthusiast that's super excited about the future
 - 👨‍💻 I build things using mostly open source web technologies (spring, angular, ionic)
 - ☁️ I deploy to the cloud with kubernetes and firebase
 - 🔅 I like clean code and a declarative programming style
 - 🤖 I enjoy to harness the power of machine learning
 
-And when I'm not in front of a computer:
-- 🏃🏋️🤸🌍😁
+And when I'm not in front of a computer: 🏃🏋️🤸🪂🌍🛹🎹♟🏂😁
+
+## Preferred Tech Stack
+- **Backend**: Kotlin, Java, Spring Boot, NodeJS, Firebase, Supabase
+- **Frontend**: TypeScript, JavaScript, Angular, Svelte, HTML, CSS
+- **Mobile**: Ionic
+- **Databases**: MongoDB, Firestore, PostgreSQL
+- **DevOps**: Docker, Kubernetes
+
+## Professional Experience
+- **mimacom** (2017 - 2021): Software Engineer & contractor at **Mobiliar** and **FINMA**
+- **FHNW** (2016 - 2017): Tutor for Discrete Mathematics
+- **Emmi** (2015): Automatization of company-wide printer management
+- **ZIVI** (2014 - 2015): Webapp development and maintenance
+- **Steiner IT** (2013 - present): Founder, Digitalization & Automation for SMEs
+- **BIT** (2013): Built an efficient platform for checklist management
+
+## Education
+- **Bachelor of Computer Science** (2015 - 2019)
+  - University of Applied Sciences and Arts Northwestern Switzerland FHNW
+  - International exchange at Seoul National University SNU in Seoul, South Korea
+  - Specialization: Data Science
+- **Federal Vocational Education and Training in Application Development** (2009 - 2013)
+  - Federal Office of Information Technology, Bern
+
+## Languages
+- **German**: Native
+- **English**: Fluent
+- **Spanish & French**: Basic
+- **Korean**: Tried hard, but can still only order food. 불고기 주세요!
+
+## Interests
+- **Technology**: Tech enthusiast, excited about efficient algorithms, software architecture, clean code, artificial intelligence.
+- **Sport**: Parkour, freerunning, tricking, skating, snowboarding, paragliding, weightlifting, running, climbing. 
+- **Music**: Jamming on the piano.
+- **Social**: Being outside, going on adventures, talking to people, being open-minded, philosophize about the universe.
 
 ## Projects
 Some hobby projects I recently launched:
@@ -37,6 +76,6 @@ After a couple more months of traveling through Asia I went back to Switzerland 
 
 After achieving this milestone I started operating as a contractor for a Swiss insurance company, primarily working on a versatile project for in-browser telephony integration for the companies callcenters. This taught me many things about enterprise architecture, however I also noticed that it won't make me happy in the long term to work for big corporations with slow paced processes and communication channels. Therefore, 2 years in, I ended my contract to pursue a different path.
 
-There are just too many things yet to explore and try out. One of which is putting in some more effort in [side projects](https://github.com/patricsteiner/) and maybe make more out of it than just a mean to explore new technologies.
+<!-- There are just too many things yet to explore and try out. One of which is putting in some more effort in [side projects](https://github.com/patricsteiner/) and maybe make more out of it than just a mean to explore new technologies. -->
 
 To be continued...
