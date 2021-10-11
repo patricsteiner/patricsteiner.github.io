@@ -29,10 +29,10 @@ And when I'm not in front of a computer: 🏃🏋️🤸🪂🌍🛹🎹♟🏂�
 ## Professional Experience
 - **mimacom** (2017 - 2021): Software Engineer & contractor at **Mobiliar** and **FINMA**
 - **FHNW** (2016 - 2017): Tutor for Discrete Mathematics
-- **Emmi** (2015): Automatization of company-wide printer management
+- **Emmi** (2015): Automation of company-wide printer management
 - **ZIVI** (2014 - 2015): Webapp development and maintenance
 - **Steiner IT** (2013 - present): Founder, Digitalization & Automation for SMEs
-- **BIT** (2013): Built an efficient platform for checklist management
+- **BIT** (2013): Built a platform for efficient checklist management
 
 ## Education
 - **Bachelor of Computer Science** (2015 - 2019)
