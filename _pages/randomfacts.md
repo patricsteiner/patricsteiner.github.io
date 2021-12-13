@@ -4,6 +4,12 @@ title: Random stuff I learned
 permalink: /randomfacts/
 ---
 
+### Random fact #11: Mental biceps curls - 13.12.2021
+When speaking about meditation, we always hear about how it's about clearing the mind, not thinking anything and just concentrating on some anchor like the breath. But it's close to impossible to not think anything. Our mind is a chaos, so much is going on in our brain, thoughts, feelings, emotions will always arise and we will always get distracted at some point. Mindfulness meditation is about noticing and acknowledging these distractions, and then go back to the anchor. Actively doing this is like a mental biceps curl for the brain. It will literally change the brain and bring immense value in dealing with stress. "You can’t stop the waves, but you can learn to surf".
+
+Source: [Podcast with Sam & Dan Harris](https://www.youtube.com/watch?v=GB3RGu8Go2s)
+
+
 ### Random fact #10: Spontaneous hay combustion - 04.06.2021
 Wet hay can ignite by itself. This first sounded very counter-intuitive to me - imagine trying to make a campfire with wet hay, it sounds almost impossible. _Dry_ hay sounds plausible to me, but _wet_ hay? How can hay ignite itself?
 
