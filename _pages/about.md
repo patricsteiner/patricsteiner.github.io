@@ -27,6 +27,7 @@ And when I'm not in front of a computer: 🏃🏋️🤸🪂🌍🛹🎹♟🏂�
 - **DevOps**: Docker, Kubernetes
 
 ## Professional Experience
+- **Jobeagle** (2021 - present): Co-Founder, Technology & Development
 - **mimacom** (2017 - 2021): Software Engineer & contractor at **Mobiliar** and **FINMA**
 - **FHNW** (2016 - 2017): Tutor for Discrete Mathematics
 - **Emmi** (2015): Automation of company-wide printer management
