@@ -4,6 +4,12 @@ title: Random stuff I learned
 permalink: /randomfacts/
 ---
 
+### Random fact #12: Candle flames are hollow - 03.01.2022
+With some initial outside heat, the hydrocarbon (wax) of a candle vaporizes and is ripped into smaller chunks (-> pyrolysis). These chunks slam into oxygen and the atoms rearrange to CO2 and H2O. During this process, electrons get excited which causes the blue glow at the bottom of a flame. Some leftover carbon atoms form soot, that heats up and glows yellow when it burns. But all these chemical reactions that make a flame glow can only happen where it meets the air! And that's on the outside of the flame, meaning it's hollow.
+
+Source: [It's okay to be smart](https://www.youtube.com/watch?v=tMDKeBaLWDw)
+
+
 ### Random fact #11: Mental biceps curls - 13.12.2021
 When speaking about meditation, we always hear about how it's about clearing the mind, not thinking anything and just concentrating on some anchor like the breath. But it's close to impossible to not think anything. Our mind is a chaos, so much is going on in our brain, thoughts, feelings, emotions will always arise and we will always get distracted at some point. Mindfulness meditation is about noticing and acknowledging these distractions, and then go back to the anchor. Actively doing this is like a mental biceps curl for the brain. It will literally change the brain and bring immense value in dealing with stress. "You can’t stop the waves, but you can learn to surf".
 
