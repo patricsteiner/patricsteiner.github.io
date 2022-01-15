@@ -13,21 +13,21 @@ So for non-enterprise projects, there is another great solution: if all your cod
 Here's how that would look like:
 
 ```
-- myAngularWorkspace
-  - projects
-    - b2bAngularApp
-    - b2cIonicApp
-    - myLib
-  - package.json
-  - tsconfig.json
-  - firebase.json
-  - angular.json
-  - node_modules
-  - ...
+myAngularWorkspace
+├── projects
+│   ├── b2bAngularApp
+│   ├── b2cIonicApp
+│   └── myLib
+├── package.json
+├── tsconfig.json
+├── firebase.json
+├── angular.json
+├── node_modules
+└── ...
 ```
 
 ## Setup
-First, create a new angular workspace:
+Sounds good? Here's how to set it all up. First, create a new angular workspace:
 
 ```
 ng new myAngularWorkspace --no-create-application --prefix myApp --strict
@@ -47,7 +47,6 @@ ng generate library myLib --prefix myApp
 _Instead of using `ionic start` for the ionic app, I use `ng generate app` and then manually add the @ionic dependencies to package.json. This way I make sure the ionic cli does not mess up my angular configuration. Additional styles and assets like the ionicons can still be manually added to angular.json._
 
 ## Development
-
 Since there are now multiple projects in the same angular workspace, we need to explicitly state which project we want to run the `ng` commands on, for example:
 
 ```
@@ -58,7 +57,7 @@ ng serve b2cIonicApp --port 4201
 ng build myLib --watch
 ```
 
-Since we will use these commands all the time, we can write scripts in package.json, for example:
+For commands that we will use the time, we can write scripts in package.json, such as:
 
 ```json
  "scripts": {
@@ -68,6 +67,8 @@ Since we will use these commands all the time, we can write scripts in package.j
     ...
  }
 ```
+
+However, it can be even simpler if we are using firebase. Instead of starting each app individually, we can emulate firebase hosting to automatically serve each app locally by typing `firebase emulators:start` in the terminal. This will launch and output local URLs for every defined site in our project.
 
 ## Deployment
 Firebase allows us to host multiple apps in the same project, and this is exactly what we are going to do. After creating your firebase project with `firebase init`, you can define multiple hosting sites in the [firebase console](https://console.firebase.google.com/), each with a seperate domain.
