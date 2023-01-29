@@ -5,7 +5,9 @@ image: environment.jpg
 categories: [angular, software-architecture]
 ---
 
-# The Angular way: storing configuration in the bundle
+There are different ways of configuring Angular applications. By default, new Angular projects are set up to store configuration in the code. But there are other approaches worth considering, especially once you start building larger projects.
+
+# The Angular way: storing configuration in the code
 By default, new Angular projects contain a `environment.ts` and a `environment.prod.ts` file. These files can be used to
 set environment-specific configuration parameters, such as for example the firebase configuration:
 
@@ -31,10 +33,10 @@ export const environment = {
 };
 ```
 
-When building the app with `ng build`, Angular will replace the `environment.ts` file with the `environment.prod.ts` file. This happens because the default build configuration is `production`. And if we go ahead and check `angular.json`, we can see that in the `production` configuration, the environment file is replaced:
+When building the app with `ng build`, Angular will replace the `environment.ts` file with the `environment.prod.ts` file. This happens because the default build configuration is `production`. And if we go ahead and check `Angular.json`, we can see that in the `production` configuration, the environment file is replaced:
 
 ```typescript
-// angular.json
+// Angular.json
 {
   "configurations": {
     "development": {
@@ -57,7 +59,7 @@ To use a different build configuration, we can pass the `--configuration` flag w
 
 ## Advantages of this approach
 - Simple - everything you need is already setup by Angular
-- All configuration is stored in the angular project itself, so it's easy to find
+- All configuration is stored in the Angular project itself, so it's easy to find
 
 ## Problems with this approach
 - Configuration is set at build time --> need separate builds for different environments
@@ -69,7 +71,7 @@ To use a different build configuration, we can pass the `--configuration` flag w
 Instead of storing the configuration in the project itself, a better approach might be to make the build independent of the environment. We can achieve this by injecting the configuration at release-time or reading it at run-time from a server.
 
 ## Injecting configuration at release-time
-instead of using Angular's `environment.ts` files to store configuration, we can create our own json configuration files and store them in the `assets` folder:
+In this approach, we create our own json configuration files, store them in the `assets` folder and stay away from `environment.ts`: 
 
 ```typescript
 // config.json
