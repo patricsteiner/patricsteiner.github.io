@@ -27,7 +27,29 @@ I did exactly that, and 2 hours later I had this beauty online: A server side re
 
 **Time spent: 3 hours**
 
-![wodz day1](/images/wodz/wodz-day1.png)
+<img src="/images/wodz/wodz-day1.png" width="400"/>
 
+### Day two: 09.09.2024.
 
-### TBD...
+Decided to hold myself accountable and write a blog post about my new side project, reviving my blog in the process. While doing this, I decided to take it up even further and set the goal to earn at least 1$ with this project. I have no idea how, but I will figure it out.
+
+**What I achieved:**
+
+- Revived my blog
+- Set a goal to earn at least 1$ with this project
+- (Didn't have time to actually code on the project 😅)
+
+**Time spent: 1 hour**
+
+### Day three: 10.09.2024.
+
+**What I achieved:**
+- Added a new feature that let's you configure the WOD before generating.
+- Read an official VertexAI Prompt Engineering Guide and improved the wod generation
+- Thought about SEO friendlier domain names, since the goal has now changed to not just be a side-project, but to actually make money. wodgenerator.ai maybe?
+- Spent around 1.5h for a new fancy retro style logo (begone bear :()
+- Spent another 2h to make buttons look and behave fancy 😎
+
+**Time spent: 4 hours**
+
+<img src="/images/wodz/wodz-day3.gif" width="400"/>
