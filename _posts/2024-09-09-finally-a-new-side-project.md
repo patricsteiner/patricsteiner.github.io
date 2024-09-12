@@ -53,3 +53,15 @@ Decided to hold myself accountable and write a blog post about my new side proje
 **Time spent: 4 hours**
 
 <img src="/images/wodz/wodz-day3.gif" width="400"/>
+
+### Day four: 13.09.2024.
+Did a lot of research on component frameworks (part of the reason I do this whole project here is to find the "perfect" stack for a jobeagle rewrite). I love Ionic, but it's all web-component based, which sadly is not a good fit for SSR apps (which is almost non-negotiable for our jobeagle frontend).
+Shadcn is the new cool kid on the block, but it's react based - spartanUI looks like the angular equivalent, but to me, it doesn't really hold the premise of "you own the code", because there is so much additional stuff to include for their components to work... Sure, I could own and adjust it, but I don't want to learn yet another framework. Another option would be Angular Material, obviously, but it is too opinionated and too hard to adjust (I want to build some fresh retro-style UI).
+I guess sticking with plain tailwind won't even be that bad. Yes, I will have to write all components myself, but honestly, I think it will be less hassle than trying to adjust a component framework to my needs.
+
+**What I achieved:**
+- Decided to stick with plain tailwind instead of any component lib (for now)
+- Built basic firestore persistence for the WODs and results (although in a very primitive string-only way --> will be adjusted to actual data model).
+- Figured it might be easier and better to just implement my own ("type-safe") WOD generator instead of using string-only AI results.
+
+**Time spent: 2 hours**
