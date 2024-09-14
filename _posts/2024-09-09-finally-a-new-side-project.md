@@ -7,7 +7,7 @@ categories: [angular]
 
 A story about a new side project.
 
-### Day one: 08.09.2024.
+### Day one: 08.09.2024
 
 I have been enormously absorbed working on [Jobeagle](https://jobeagle.io) the last 2.5 years. I don't think I have ever had such a long streak NOT having any side-project... But yesterday evening I had the sudden urge to start something new. I didn't even have an idea yet. So I brainstormed for around 2 minutes and thought "why not do some workout app?". Sort of stupid, because there are already thousands out there. But even though I have been working out for 10 years now, I have never, NEVER used any workout app. Never needed one. So exactly zero reasons to build one 😂. But hey, I didn't even care about what to build, I just wanted to make something fresh. 
 
@@ -29,7 +29,7 @@ I did exactly that, and 2 hours later I had this beauty online: A server side re
 
 <img src="/images/wodz/wodz-day1.png" width="400"/>
 
-### Day two: 09.09.2024.
+### Day two: 09.09.2024
 
 Decided to hold myself accountable and write a blog post about my new side project, reviving my blog in the process. While doing this, I decided to take it up even further and set the goal to earn at least 1$ with this project. I have no idea how, but I will figure it out.
 
@@ -41,7 +41,7 @@ Decided to hold myself accountable and write a blog post about my new side proje
 
 **Time spent: 1 hour**
 
-### Day three: 10.09.2024.
+### Day three: 10.09.2024
 
 **What I achieved:**
 - Added a new feature that let's you configure the WOD before generating.
@@ -54,7 +54,7 @@ Decided to hold myself accountable and write a blog post about my new side proje
 
 <img src="/images/wodz/wodz-day3.gif" width="400"/>
 
-### Day four: 13.09.2024.
+### Day four: 13.09.2024
 Did a lot of research on component frameworks (part of the reason I do this whole project here is to find the "perfect" stack for a jobeagle rewrite). I love Ionic, but it's all web-component based, which sadly is not a good fit for SSR apps (which is almost non-negotiable for our jobeagle frontend).
 Shadcn is the new cool kid on the block, but it's react based - spartanUI looks like the angular equivalent, but to me, it doesn't really hold the premise of "you own the code", because there is so much additional stuff to include for their components to work... Sure, I could own and adjust it, but I don't want to learn yet another framework. Another option would be Angular Material, obviously, but it is too opinionated and too hard to adjust (I want to build some fresh retro-style UI).
 I guess sticking with plain tailwind won't even be that bad. Yes, I will have to write all components myself, but honestly, I think it will be less hassle than trying to adjust a component framework to my needs.
@@ -65,3 +65,13 @@ I guess sticking with plain tailwind won't even be that bad. Yes, I will have to
 - Figured it might be easier and better to just implement my own ("type-safe") WOD generator instead of using string-only AI results.
 
 **Time spent: 2 hours**
+
+### Day five: 14.09.2024
+Spent around 3 hours debugging an SSR build issue. Takeaway: We need to assure the app becomes stable (in terms of "not having any pending async operations") when rendered on the client AND server. And the latter can be tricky if using firestore realtime subscriptions... Need to be careful with `filter(Boolean)`s etc, because they might block the app.
+
+**What I achieved:**
+- Implemented a JSON schema for WODs instead of just using strings
+- Some cosmetics
+- Thought about making this an app for coaches to generate and re-sell WODs, so I don't have to sell it. On the other hand, maybe that's exactly the value I could generate: Be the AI coach for end-users, and have them pay less than they would for a coach selling them a random WOD.
+
+**Time spent: 6 hours** (way too much,  haven't really achieved much because I don't have a clear goal)
