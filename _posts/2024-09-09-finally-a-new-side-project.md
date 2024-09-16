@@ -75,3 +75,15 @@ Spent around 3 hours debugging an SSR build issue. Takeaway: We need to assure t
 - Thought about making this an app for coaches to generate and re-sell WODs, so I don't have to sell it. On the other hand, maybe that's exactly the value I could generate: Be the AI coach for end-users, and have them pay less than they would for a coach selling them a random WOD.
 
 **Time spent: 6 hours** (way too much,  haven't really achieved much because I don't have a clear goal)
+
+### Day six: 17.09.2024
+**What I achieved:**
+- Implemented a dynamic form to create WODs
+- Split WODs into "parts" (e.g. so you can add buy-in)
+- Wasted hours to build a drag and drop functionality that works on mobile too 😂
+
+**Time spent: 5 hours**
+
+Tomorrow: Vacation 1 week 🥳
+
+<img src="/images/wodz/wodz-day6.png" width="400"/>
